@@ -1,0 +1,8 @@
+ARCANA PRIVADA - ACCESO ADMINISTRADOR (V1 PRIVADA)
+
+Usuario: clara
+Contraseña: ambar2026
+
+IMPORTANTE:
+Estas credenciales están integradas localmente sólo para esta versión privada de prueba.
+Antes de publicar la aplicación en Google Play o distribuirla comercialmente, reemplazar este acceso por autenticación segura mediante backend/Firebase y cambiar la contraseña inicial.

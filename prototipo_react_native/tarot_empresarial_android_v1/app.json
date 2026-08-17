@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Arcana Privada",
+    "slug": "arcana-privada",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.arcana.privada",
+      "adaptiveIcon": {
+        "backgroundColor": "#120B1C"
+      }
+    }
+  }
+}
